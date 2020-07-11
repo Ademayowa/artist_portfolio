@@ -219,7 +219,7 @@ body {
 }
 
 .arrow_1 {
-  background: url('../images/left-arrow.png') no-repeat;
+  background: url('../assets/images/left-arrow.png') no-repeat;
   padding-bottom: 50px;
   position: relative;
   top: 150px;
